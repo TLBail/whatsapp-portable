@@ -22,7 +22,7 @@ The name WhatsApp™ as well as related names, marks, emblems and images are reg
 WhatsApp™ portable app made with 🚀 [Portapps](https://portapps.io).<br />
 Documentation and downloads can be found on https://portapps.io/app/whatsapp-portable/
 
-## Contributing
+## Contributingd
 
 Want to contribute? Awesome! The most basic way to show your support is to star the project, or to raise issues. If
 you want to open a pull request, please read the [contributing guidelines](https://portapps.io/doc/contribute/).
